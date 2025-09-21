@@ -1,4 +1,4 @@
-my name is yok939, you can call me yok
+My name is yok939, you can call me yok
 
-## Currently developing
+## Current project
 * YCSHOJ
