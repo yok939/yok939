@@ -1,4 +1,4 @@
-I will use this for something
+my name is yok939, you can call me yok
 
-
-I'm learning Python, C++ and Javascript
+## Currently developing
+* YCSHOJ
